@@ -1,3 +1,4 @@
+# Program to check for
 user_age = input("Enter your age: ")
 
 age = int(user_age)
