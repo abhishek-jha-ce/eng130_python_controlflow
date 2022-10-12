@@ -1,10 +1,3 @@
-# Python Control Flow
-## if elif else
-
-### Example
-
-```commandline
-
 weather = "sunny"
 
 # Checks for the first condition
@@ -18,8 +11,3 @@ elif weather == "sunny":
 # If none of the condition are met than print this.
 else:
     print("Take your Umbrella!")
-
-```
-
-### loops - for loop - while loop
-#### python keywords break - continue
